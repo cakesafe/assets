@@ -1,0 +1,28 @@
+{
+    "name": "SAFE",
+    "website": "https://cakesafe.network",
+    "description": "SAFE is the utility token of the CakeSafe Ecosystem",
+    "explorer": "https://bscscan.com/0x3c592c181da76c4b98ec0b8209164392e31a68ff",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/TheCakeSafe",
+            "handle": "TheCakeSafe"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/cakesafenetwork",
+            "handle": "cakesafenetwork"
+        },
+        {
+            "name": "Medium",
+            "url": "https://cakesafe.medium.com/",
+            "handle": "cakesafe"
+        }
+    ],
+    "type": "BEP20",
+    "symbol": "SAFE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3c592c181da76c4b98ec0b8209164392e31a68ff"
+}
